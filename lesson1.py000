@@ -1,0 +1,5 @@
+kdz = 12
+kch = 1.5
+nk = "python"
+vv = (kch // kdz)
+print("kyrs:", nk + ", "  "kdz" ":", (kdz) ,",", "kch: ", kch, ",", "vv ",(kch / kdz))
